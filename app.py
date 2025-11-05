@@ -226,7 +226,7 @@ st.markdown('''
 <div class="main-header">
     <h1>🍎 AppleGuard AI</h1>
     <p style="font-size: 1.2rem; margin-top: 0.5rem;">
-        An apple inspection tool for identifying common apple infections
+        An inspection tool for identifying common apple infections
     </p>
     <p style="font-size: 0.95rem; margin-top: 0.3rem; opacity: 0.9;">
         AI-Powered Disease Detection using YOLOv8
@@ -517,4 +517,5 @@ st.markdown('''
     <p>Classes: Healthy, Black Rot, Powdery Mildew, Black Pox, Anthracnose, Codling Moth</p>
     <p style='margin-top: 1rem; font-size: 0.9rem;'>Model: YOLOv8s | Framework: Ultralytics</p>
 </div>
+
 ''', unsafe_allow_html=True)
